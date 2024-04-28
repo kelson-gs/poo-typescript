@@ -1,0 +1,15 @@
+# Directorio de dependencias
+node_modules/
+
+# Archivos de compilación TypeScript
+*.js
+*.js.map
+
+# Archivos de configuración de TypeScript
+tsconfig.json
+
+# Archivos de configuración de IDE
+.vscode/
+
+# Otros archivos generados
+*.log
